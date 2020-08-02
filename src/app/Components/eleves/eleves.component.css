@@ -1,0 +1,84 @@
+.form-header {
+    margin-left: 80px;
+    display: inline;
+}
+
+.au-inputsearch {
+    line-height: 43px;
+    margin-right: 5px;
+    width: 970px;
+    border: 1px solid rgb(77, 192, 212);
+    font-size: 14px;
+    color: #666;
+    padding: 0 17px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.au-btnsearch {
+    margin-right: 2px;
+    line-height: 45px;
+    padding: 0 35px;
+    text-transform: uppercase;
+    color: #fff;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.span-col {
+    font-size: 48px;
+    font-weight: 500;
+    color: rgba(2, 159, 207, 0.925);
+    margin-left: 10px;
+    padding-top: 1px;
+}
+
+.span-text {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.h5-chart {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: rgba(226, 157, 28, 0.925)
+}
+
+.h5-chart2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 400;
+    color: rgb(77, 192, 212)
+}
+
+.vl {
+    border-left: 2.5px solid rgb(77, 192, 212);
+    border-radius: 50%;
+    height: 50px;
+    margin-right: -50px;
+    top: 0;
+}
+
+.h2-table {
+    color: rgb(1, 13, 73);
+    font-weight: 600px;
+}
+
+.niveau {
+    color: rgba(226, 157, 28, 0.925);
+}
+
+.col {
+    max-width: 1000px;
+}
