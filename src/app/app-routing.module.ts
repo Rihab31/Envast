@@ -1,3 +1,4 @@
+import { ClassComponent } from './Components/class/class.component';
 import { ElevesComponent } from './Components/eleves/eleves.component';
 import { LayoutComponent } from './Components/layout/layout.component';
 import { NgModule } from '@angular/core';
@@ -11,6 +12,9 @@ const routes: Routes = [
   children: [
      {path :'' ,
      component: ElevesComponent
+     },
+      {path :'class' ,
+     component: ClassComponent
      },
 
   ]

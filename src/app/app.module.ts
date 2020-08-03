@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { ElevesComponent } from './Components/eleves/eleves.component';
 import { LayoutComponent } from './Components/layout/layout.component';
 import {MatDividerModule} from '@angular/material/divider';
+import { ClassComponent } from './Components/class/class.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ElevesComponent,
-    LayoutComponent
+    LayoutComponent,
+    ClassComponent
   ],
   imports: [
     BrowserModule,
